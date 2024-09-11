@@ -29,9 +29,6 @@ Installation
 To set up the project, follow these steps:
 
 
-bash
-
-git clone https://github.com/yourusername/sign-language-detection.git
 Install the necessary dependencies:
 
 bash
